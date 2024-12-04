@@ -1,0 +1,14 @@
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\bin\Debug\net8.0\Day_4_1_v2.exe
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\bin\Debug\net8.0\Day_4_1_v2.deps.json
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\bin\Debug\net8.0\Day_4_1_v2.runtimeconfig.json
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\bin\Debug\net8.0\Day_4_1_v2.dll
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\bin\Debug\net8.0\Day_4_1_v2.pdb
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\Day_4_1_v2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\Day_4_1_v2.AssemblyInfoInputs.cache
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\Day_4_1_v2.AssemblyInfo.cs
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\Day_4_1_v2.csproj.CoreCompileInputs.cache
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\Day_4_1_v2.dll
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\refint\Day_4_1_v2.dll
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\Day_4_1_v2.pdb
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\Day_4_1_v2.genruntimeconfig.cache
+C:\Users\jenst\Desktop\JENS_AO_24_25\AdventOfCode\Day_4_1\Day_4_1_v2\obj\Debug\net8.0\ref\Day_4_1_v2.dll
